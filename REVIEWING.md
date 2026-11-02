@@ -1,6 +1,9 @@
 This document describes the manual process to review a PR for a release
 submission to the Alire's community index.
 
+To respond to a harmful release that is already in the index, see
+[INCIDENTS.md](INCIDENTS.md).
+
 ## Purpose of the review process
 
 - Ensure submitted releases build and resolve on at least some platforms.
@@ -52,5 +55,6 @@ submission to the Alire's community index.
 
 ## Approving
 
-- [ ] Once everything checks out, tag the @alire-project/crate-reviewers team
-      in a comment stating that the PR is OK to merge.
+- [ ] Once everything checks out, tag the @alire-project/crate-reviewers
+      (@mosteo @AldanTanneo @Fabien-Chouteau @markhermeling) team in a comment
+      stating that the PR is OK to merge.
